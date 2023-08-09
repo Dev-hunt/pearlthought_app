@@ -25,6 +25,11 @@ step6: build a action workflow through github pages
 
 ![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/e229f3a7-0305-4182-8136-dba8eaf86600)
 
+step7: all the jobs work succesfully
+
+![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/ecbdd4f6-a378-498e-a3e0-c83d49e1d301)
+
+
 step 7: after choosing python application workflow, write yml file to define workflow and commit the changes.
 
 ![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/0fdf5ce5-6c97-4085-81de-c17bc55de049)
