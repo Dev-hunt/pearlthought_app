@@ -1,6 +1,7 @@
 # pearlthought_app
 
 Step1: Creating a python app with simple hello world program
+
 ![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/53b1e9c9-1894-4a53-bd38-885cd62546e8)
 
 Step 2: write a test_app.py file to test the code output
@@ -18,4 +19,15 @@ git branch -M main
 git add .
 git commit -m "message"
 git push -u origin main
+![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/e1d07dbc-9bc2-49a1-b3ea-b5c555240d05)
+
+step6: build a action workflow through github pages
+
+![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/e229f3a7-0305-4182-8136-dba8eaf86600)
+
+step 7: after choosing python application workflow, write yml file to define workflow and commit the changes.
+
+![image](https://github.com/Dev-hunt/pearlthought_app/assets/79158208/0fdf5ce5-6c97-4085-81de-c17bc55de049)
+
+
 
