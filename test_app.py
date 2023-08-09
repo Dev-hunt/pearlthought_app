@@ -1,5 +1,5 @@
 def test_hello_world():
-    from pearlthought_app.app import main
+    from app import main
     assert callable(main), "main function is not defined"
     
     # Capture stdout to check if the output matches
